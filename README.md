@@ -10,7 +10,8 @@ pip install fpdf
 pip install pillow 
 pip install puperclip 
 
-#App Dashboard
+# App Dashboard
+
 <img src="ReadMe Files/Image1.png" width="900">
 
 
